@@ -14,19 +14,9 @@ function funAccou(){
 }
 
 
-// function myfun(){
-//     document.getElementById('demo').innerHTML='<p>Email: Noha1alsaeed@gmail.com</p>';
+function funContact(){
+    document.getElementById('con').innerHTML='<p>Email: Noha1alsaeed@gmail.com</p>';
     
-// }
+}
 
 
-function handler1()
-{
-console.log("handler1");
-}
-function handler2()
-{
-console.log("handler2");
-}
-document.getElementById('button1').addEventListener('click',handler1,false);
-document.getElementById('button1').addEventListener('click',handler2,false);

@@ -10,9 +10,10 @@ h1{
     text-transform: capitalize;
 }
 div{
-    margin: 50px 300px 50px 300px;
+    margin: auto;
     border: solid rgb(211, 153, 175) ;
     text-align: center;
+    width: 50%;
 
 }
 button{
